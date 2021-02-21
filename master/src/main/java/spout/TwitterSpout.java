@@ -18,10 +18,10 @@ import java.util.concurrent.LinkedBlockingQueue;
  */
 public class TwitterSpout extends BaseRichSpout {
 
-    public static final String consumerKey = "GIZN6ctExW0Mvwm0BONQ7XlI1";
-    public static final String consumerSecret = "owpowkJDEKJbwjnyMMPgtMUTqrZQ8AhnyckjVUFBtufmt9cKNi";
-    public static final String accessToken = "385740473-dbzmdBah8sSvM1H5SKsLhWdeycYU0bnwsGChF2nZ";
-    public static final String accessTokenSecret = "kfRlnWHoEStccL3xSjzj5UBRN7vG7jE7rXEI5OQTF1Y2S";
+    public static final String consumerKey = "";
+    public static final String consumerSecret = "";
+    public static final String accessToken = "";
+    public static final String accessTokenSecret = "";
 
     private SpoutOutputCollector collector;
     private TwitterStream twStream;
