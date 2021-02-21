@@ -1,0 +1,2 @@
+# Twitter-live-data-analysis
+Detecting the Most Popular Topics with Sentiments from Live Twitter Message Streams using the Lossy Counting Algorithm with Apache Storm  The goal of this system is to detect the most frequently occurring hash tags and named-entities from the live Twitter data stream and calculate sentiment values in real-time.  A hashtag is a type of label or metadata tag used in social networks that makes it easier for users to find messages with a specific theme or content.
